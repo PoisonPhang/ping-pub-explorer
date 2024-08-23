@@ -1,0 +1,20 @@
+{
+    "chain_name": "union-testnet-8",
+    "api": ["https://api.testnet.seed.poisonphang.com:443"],
+    "rpc": ["https://rpc.testnet.seed.poisonphang.com:443"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.50.5",
+    "coin_type": "1337",
+    "min_tx_fee": "0",
+    "addr_prefix": "union",
+    "assets": [
+        {
+            "base": "muno",
+            "sympol": "UNO",
+            "exponent": "6",
+            "coingecko_id": "u",
+            "logo": "/logos/union.svg"
+        }
+    ]
+}
